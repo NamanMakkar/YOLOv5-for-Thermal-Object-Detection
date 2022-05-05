@@ -1,0 +1,9 @@
+train: /kaggle/working/datasets/flir-three-labels/images/train
+val: /kaggle/working/datasets/flir-three-labels/images/val
+test: /kaggle/working/datasets/flir-three-labels/images/test
+
+#number of classes
+nc: 3
+
+#class names
+names: ['person','bicycle','car']
